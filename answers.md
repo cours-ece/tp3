@@ -1,8 +1,8 @@
 # Answers
 
-Nom: 
-Prénom: 
-NB: 
+Nom: Jacquin Le Pirate
+Prénom: Théo
+NB: 1
 
 ## 1.3 
 Définir les objets suivants:
