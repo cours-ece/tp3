@@ -1,10 +1,10 @@
 # Answers
 
-Nom: 
-Prénom: 
-NB: 
+Nom: Benguigui
+Prénom: Thomas
+NB: 3
 
-## 1.3 
+## 1.3
 Définir les objets suivants:
 graph:
 tensor:
