@@ -1,8 +1,8 @@
 # Answers
 
-Nom: 
-Prénom: 
-NB: 
+Nom:Akherraz
+Prénom: Brahim
+NB: 4
 
 ## 1.3 
 Définir les objets suivants:
