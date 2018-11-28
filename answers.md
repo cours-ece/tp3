@@ -1,10 +1,10 @@
 # Answers
 
-Nom: 
-Prénom: 
-NB: 
+Nom: PIOVESAN
+Prénom: Clément
+NB: 2
 
-## 1.3 
+## 1.3
 Définir les objets suivants:
 graph:
 tensor:
