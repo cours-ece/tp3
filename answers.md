@@ -1,8 +1,8 @@
 # Answers
 
-Nom: 
-Prénom: 
-NB: 
+Nom: Leroux
+Prénom: Célestin  
+NB: 5
 
 ## 1.3 
 Définir les objets suivants:
