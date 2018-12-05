@@ -6,8 +6,8 @@ NB: 4
 
 ## 1.3 
 Définir les objets suivants:
-graph: c'est représenter visuellement les datas, comment par exemple le taux de certitudes.
-tensor: Des données stockées sous forme de chaine, de matrice ou un format avec encore plus de dimensions (n) 
+graph: c'est ce qui sert pour les calculs dans tensorflow
+tensor: arrays of arbitrary dimensionality
 layer: C'est les couches du réseau de neurones, dans l'exemple il y en a 2.
 
 ## 3
