@@ -6,7 +6,7 @@ NB: 7
 
 ## 1.3 
 Définir les objets suivants:
-graph:
+graph: 
 tensor:
 layer:
 
