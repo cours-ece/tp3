@@ -6,10 +6,10 @@ NB: 5
 
 ## 1.3 
 Définir les objets suivants:
-graph: Représente les relations entre les opérations individuelles
+graph: Représente les relations entre les opérations 
 tensor:  Un tensor est une généralisation de vecteurs et de matrices à des 
 dimensions potentiellement plus élevées
-layer: Un layer est une des couches du model de prédiction.
+layer:
 
 ## 3
 answer:
