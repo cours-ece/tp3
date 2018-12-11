@@ -1,9 +1,5 @@
 FROM tensorflow/serving
 
-WORKDIR /models/mnist
+RUN mkdir /models/mnist
 
-COPY . .
-
-ENTRYPOINT ["tools/run_in_docker.sh"]
-
-CMD [ "python", "./tensorflow_serving/example/mnist_client.py" ]
+COPY 1 /models/mnist/1
