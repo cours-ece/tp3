@@ -11,4 +11,7 @@ tensor:C'est une généralisation de matrices de dimension supérieure à 3. Ce 
 layer:C'est une classe qui implémente des opérations de réseaux de neurones.
 
 ## 3
-answer:
+answer:  Le modèle doit être entrainé de manière régulière afin de le maintenir à jour. Docker répond donc à ce problème.
+
+
+
