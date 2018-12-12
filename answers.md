@@ -12,6 +12,6 @@ layer: C'est une classe qui implémente des opérations communes de réseaux de 
 
 ## 3
 answer:
-
+Un modèle ne doit pas être entrainé qu'une seule fois, mais de manière régulière afin de le maintenir à jour voir en permanence. Nous pouvons utiliser Docker pour cela ou Torus.
 
 docker run -it -p 8500:8500 -e MODEL_NAME=mnist -t cpiovesan/tp3
