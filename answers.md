@@ -15,4 +15,4 @@ layer: Un layer est une couche du réseau de neurones
 
 ## 3
 answer: 
-Un modèle doit constamment être entrainé
+Les données changent constamment. Il faut que le modèle soit régulièrement entrainé, mais également mis à jour et adaptable aux données. Il faut trouver un moyen d'héberger le modèle pour permettre ces entraînements. Docker permet de résoudre ces difficultés.
