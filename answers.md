@@ -20,3 +20,4 @@ layer: un layer est un niveau du réseau de neurones
 
 ## 3
 answer:
+Les modèles doivent être entraînés de manière régulière, et être tenus à jour. C'est pour ça qu'on peut utiliser Docker ou Torus pour avoir des routines automatiques d'entraînement.
