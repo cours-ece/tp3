@@ -13,3 +13,7 @@ layer: Un layer est une des couches du model de prédiction.
 
 ## 3
 answer:
+Les données évoluant, il faut réentrainer le modèles à chaque MAJ des data. 
+Le modèles doit être hébergé grâce a Docker pour pouvoir effectuer ce 
+réentrainement régulièremenent.
+
